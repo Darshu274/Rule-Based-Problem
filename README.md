@@ -20,11 +20,8 @@ This repository contains the solution for the Machine Learning Project Work for 
 
 ---
 
-## 📤 Deliverables Checklist
-- [ ] **Documentation.pdf** 
-- [ ] **EVAL_target01_<ID>.csv** 
-- [ ] **framework_<ID>.py** 
-- [ ] **Source code folder** 
-
----
-[cite_start]*Ostbayerische Technische Hochschule Amberg-Weiden* [cite: 2]
+## Deliverables Checklist
+* **Documentation.pdf** 
+* **EVAL_target01_<ID>.csv** 
+* **framework_<ID>.py** 
+* **Source code folder** 
